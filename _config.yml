@@ -7,8 +7,16 @@ title: 云止
 subtitle:
 description: 云，飘逸者也。然，知止后定
 author: Zhang Qiaolun
-language:
+language: en
 timezone:
+avatar: /images/zhang.png
+duoshuo_shortname: qlzhang
+#baidu_analytics: 844f18930b9faa57deea27602d60e385
+
+menu:
+    home: /
+    archives: /archives
+    tags: /tags
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
